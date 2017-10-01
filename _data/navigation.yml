@@ -2,6 +2,8 @@
 main:
   # - title: "HOME"
   #  url: /
+  - title: "MLDL_Tutorial_CN"
+    url: /MLDL_Tutorial_CN/
   - title: "About"
     url: /about/
   - title: "Contact"
