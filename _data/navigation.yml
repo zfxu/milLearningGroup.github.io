@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "HOME"
-    url: /
+  # - title: "HOME"
+  #  url: /
   - title: "About"
     url: /about/
   - title: "Contact"
