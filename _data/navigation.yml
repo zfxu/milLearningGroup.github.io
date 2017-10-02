@@ -14,3 +14,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+foo:
+  - title: "CAMALAB"
+    url: http://camalab.hdu.edu.cn/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
