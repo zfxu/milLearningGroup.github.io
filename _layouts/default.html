@@ -13,12 +13,11 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-	{% include toc icon="gears" title="My Table of Contents" %}
 	<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
+	
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
