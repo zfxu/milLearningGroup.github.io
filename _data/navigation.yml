@@ -2,12 +2,10 @@
 main:
   # - title: "HOME"
   #  url: /
-  - title: "MLDL_Tutorial_CN"
-    url: /MLDL_Tutorial_CN/
+  - title: "Docs"
+    url: /docs/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -17,6 +15,14 @@ main:
 links:
   - title: "CAMALAB"
     url: http://camalab.hdu.edu.cn/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+docs:
+  - title: "基础入门"
+    #url: http://camalab.hdu.edu.cn/
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/

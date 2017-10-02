@@ -1,6 +1,6 @@
 Accepted Doge:
   name             : "Accepted Doge"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/xiaoweicao.jpg"
   bio              : "Keep running."
   location         : "Zhejiang, Hangzhou"
   email            : acdoge.cao@gmail.com

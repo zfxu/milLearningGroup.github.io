@@ -1,6 +1,6 @@
 ---
-title: We start!
-excerpt: CAMALAB - Learning Group正式成立
+title: 一切才刚刚开始
+excerpt: 本文章用于功能测试
 categories: test
 tags: test
 author: Accepted Doge

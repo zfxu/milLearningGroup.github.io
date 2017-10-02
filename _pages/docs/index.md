@@ -1,7 +1,26 @@
 ---
+title: 学习组文档
 layout: single
-permalink: MLDL_Tutorial_CN/
+permalink: docs/
+author: Accepted Doge
+sidebar:
+  nav: "docs"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
+
+{% include toc %}
 
 目的是为了方便CAMALAB基础学习组内部交流合作，内容并非全部原创，其主要性质仍为资料的收集与改进。由于本人才疏学浅，更兼时间和精力有限，内容框架设计无法做到尽善尽美，欢迎大家给予建设性的意见，另外如有错误之处还望大家及时指出，多多包涵。  
 
@@ -9,7 +28,7 @@ permalink: MLDL_Tutorial_CN/
 
 本人将会合理地引用一些资料并且注明来源，如果您认为侵犯了您的权益，请发邮件至我的邮箱：acdoge.cao@gmail.com，告知我您的身份以及侵权部分，我将及时删除有关内容。
 
-#介绍
+# 介绍
 
 我们无法确保所有人都能够全程以极大的热情持续学习，但希望参加了学习小组的组员们能够得到一些学习内容之外的锻炼，这将是更加宝贵的素质锻炼。即使大部分的内容会以中文的形式给出，我们依然强调学习英语的重要性，以及强调发展个人的自主学习能力。 
 
@@ -32,3 +51,9 @@ permalink: MLDL_Tutorial_CN/
 1. Github & Markdown 入门
 2. Python 入门
 3. 待添加
+
+
+# 画廊功能
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
