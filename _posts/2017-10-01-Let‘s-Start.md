@@ -5,19 +5,21 @@ categories: test
 tags: test
 author: Accepted Doge
 author_profile: true
+header:
+  teaser: /assets/images/authors/xiaoweicao.jpg
 sidebar:
   nav: "links"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/camalab_workspace.jpg
+    image_path: /assets/images/camalab_workspace.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/workstation.jpg
+    image_path: /assets/images/workstation.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/titanxp.jpg
+    image_path: /assets/images/titanxp.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
