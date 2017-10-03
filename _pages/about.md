@@ -1,7 +1,7 @@
 ---
-title: CAMALAB
+title: 关于CAMALAB
 layout: splash
-permalink: about/
+permalink: /about/
 
 academic_staffs:
   - image_path: assets/images/authors/junyu.jpg
@@ -43,11 +43,32 @@ academic_staffs:
 
 ---
 
-<div class="text-center">
-	<h2> 教师 Academic Staffs </h2>
+CAMALAB全称Computer Animation and Multimedia Analysis LAB，即计算机动画与多媒体分析实验室，隶属于杭州电子科技大学计算机学院。CAMALAB成立于2014年，具有一个年轻且颇有活力的科研团队，实验室负责人为俞俊教授，现拥有教师9名（教授3名、讲师6名）、博士研究生1名、硕士研究生22名、本科生3名。实验室的研究方向为计算机视觉与机器学习等人工智能相关前沿领域。具体而言，包含：图像检索、跨媒体表达、人脸检测与识别、图像分类/目标识别、图像质量评价、视频理解、深度学习、概率图模型等前沿课题。 
+
+团队成员曾主持或参与国家自然科学基金、国家科技支撑计划、国家自然科学基金重大研究计划、青年973项目等多项科研项目，并发表包括IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Cybernetics (TC)等领域顶级期刊以及IEEE International Conference on Computer Vision (ICCV)等顶级国际会议在内的学术论文近100篇、授权和受理发明专利20余项。团队成员长期担任多个国际SCI期刊审稿专家、担任知名国际会议PC member，并与多名国内外知名学者、出色研究小组保持学术交流与合作。
+
+
+<div>
+
+			 <h3><i class="fa fa-1x fa-map-marker"></i> 实验室地址 Address </h3>
+			 <p>
+
+			 浙江省杭州市杭州电子科技大学下沙高教园校区，一教北楼512/514室。<br>
+			 (杭州经济开发区白杨街道2号大街1158号，邮编:310018) <br><br>
+			 Room 512/514, Building 1, Hangzhou Dianzi University, Hangzhou 310018, China.<br>
+          	 (1158, No. 2 Street, Baiyang Subdistrict, Xiasha Higher Education Zone) <br>
+			 </p>
+
+			 <h3><i class="fa fa-1x fa-home"></i> 实验室网址 Website </h3>
+			 <p>
+			 <a href="http://camalab.hdu.edu.cn">http://camalab.hdu.edu.cn</a>
+			 </p>
+
+			 <h3><i class="fa fa-1x fa-user"></i> 负责人 Director </h3>
+			 <p>
+			 俞俊（Jun YU）：yujun<i class="fa fa-1x fa-at"></i>hdu.edu.cn
+			 </p>
+
+			 
+
 </div>
-
-{% include feature_row id="academic_staffs" %}
-
-
-

@@ -24,9 +24,9 @@ links:
         url: /child-2-page-url/
 docs:
   - title: "基础入门"
-    #url: http://camalab.hdu.edu.cn/
+    # url: http://camalab.hdu.edu.cn/
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
+      - title: "常用参考资料"
+        url: /docs/material/
+      - title: "内容更新中"
+        # url: /child-2-page-url/
