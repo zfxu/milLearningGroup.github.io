@@ -1,5 +1,5 @@
 ---
-title: 学习组文档
+title: 文档
 layout: single
 permalink: docs/
 author: Accepted Doge
