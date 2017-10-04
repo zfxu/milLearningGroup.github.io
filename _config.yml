@@ -16,7 +16,7 @@ description              : "About ML and DL."
 url                      : "https://accepteddoge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # "/assets/images/logo-text.png"
+teaser                   : "/assets/images/logo-text.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -175,7 +175,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
