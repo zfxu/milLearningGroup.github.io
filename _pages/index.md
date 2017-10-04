@@ -29,7 +29,7 @@ CAMA-LAB基础学习组隶属于杭州电子科技大学计算机学院 <a href=
 其中姓名加粗的为根据统计信息显示已有一定基础的同学。
 
 <h3><font color="#FF0000" > CAMA-LAB 机器学习暑期研讨班（2017 Summer）</font></h3>
-访问 [GitHub地址](https://github.com/wolegechu/cama_summer_class_2017) 获取详细信息
+访问 [GitHub地址](https://github.com/milLearningGroup/cama_summer_school_2017) 获取详细信息
 
 - Exceptional Performance
   - 研究生：方振影、李敬、周剑
