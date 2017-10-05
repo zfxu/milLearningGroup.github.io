@@ -19,3 +19,14 @@ Git & GitHub 教程推荐，**根据个人情况选其中一个方式即可**：
 如果你更加喜欢使用 **命令行式shell** （这也是推荐的方式）而不是**图形界面shell**，推荐选择下面的课程：
 
 - Udacity的 [Linux命令行基础](https://cn.udacity.com/course/linux-command-line-basics--ud595) 或者是 [Shell工作坊](https://cn.udacity.com/course/shell-workshop--ud206)
+
+
+
+## 文档写作
+
+无论是代码还是文章，它们都是需要给人阅读的。有时候使用一些word文档写作过程过于繁琐，因此 markdown 下语法变得越来越受人欢迎。下面推荐的这个教程以 readme 写作为例子，告诉大家如何去写一个**让阅读者能够快速抓取有效信息**的文档：
+
+- Udacity的 [编写 README 文档（中/英）](https://cn.udacity.com/course/writing-readmes--ud777)
+- 阅读文档 [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
+
+**提示：**第一个视频课程能够看到演示例子，第二个内容是一个方便你快速查询的网站。（Ctrl + F 在当前页面查找）强烈推荐一个极简风格的 markdown 编辑器 [Typora](https://www.typora.io/)，你一定会喜欢上它。
