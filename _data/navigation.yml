@@ -23,10 +23,14 @@ links:
       - title: "Child Link 2"
         url: /child-2-page-url/
 docs:
-  - title: "基础入门"
+  - title: "开始前的工作"
     # url: http://camalab.hdu.edu.cn/
     children:
-      - title: "常用参考资料"
+      - title: "团队协作与文档写作"
         url: /docs/material/
-      - title: "内容更新中"
+      - title: "提问的艺术"
         # url: /child-2-page-url/
+  - title: "机器学习"
+    # url: http://camalab.hdu.edu.cn/
+  - title: "深度学习"
+    # url: http://camalab.hdu.edu.cn/
