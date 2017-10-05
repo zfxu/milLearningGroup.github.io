@@ -27,7 +27,7 @@ docs:
     # url: http://camalab.hdu.edu.cn/
     children:
       - title: "团队协作与文档写作"
-        url: /docs/material/
+        url: /docs/teamwork-and-markdown/
       - title: "提问的艺术"
         # url: /child-2-page-url/
   - title: "机器学习"
