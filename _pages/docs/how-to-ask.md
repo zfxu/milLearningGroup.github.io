@@ -58,6 +58,15 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 ## 在提问之前
 
+**Start**
+这一部分是 Accepted Doge 添加的链接内容：
+
+1. [学会这 10 招，让你轻松成为搜索达人！](http://tech2ipo.com/10027062)
+2. [如何使用搜索技巧来成为一名高效的程序员](http://blog.jobbole.com/371/)
+
+**End**
+
+
 在你准备要通过电子邮件、新闻群组或者聊天室提出技术问题前，请先做到以下事情：
 
     1. 尝试在你准备提问的论坛的旧文章中搜索答案。
