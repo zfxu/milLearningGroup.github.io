@@ -32,6 +32,8 @@ docs:
         url: /docs/how-to-ask/
       - title: "Anaconda 与 Jupyter Notebook"
         url: /docs/anaconda-and-jupyter-notebook/
+      - title: "Python 与科学环境包"
+        url: /docs/python/
   - title: "机器学习"
     # url: http://camalab.hdu.edu.cn/
   - title: "深度学习"
