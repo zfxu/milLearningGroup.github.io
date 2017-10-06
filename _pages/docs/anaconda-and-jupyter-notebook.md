@@ -35,6 +35,14 @@ Conda 还会自动为你安装依赖项。例如，`scipy` 依赖于 `numpy`，�
 
 如果不知道要找的包的确切名称，可以尝试使用 `conda search search_term` 进行搜索。例如，我知道我想安装 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)，但我不清楚确切的包名称。因此，我尝试执行 `conda search beautifulsoup`。它返回可用的 Beautiful Soup 包的列表，并列出了相应的包名称 `beautifulsoup4`。
 
+### 核心包
+
+- [NumPy](http://www.numpy.org/) >= 1.12.1
+- [SciPy](http://www.scipy.org/) >= 0.19.0
+- [scikit-learn](http://scikit-learn.org/stable/) >= 0.18.1
+- [matplotlib](http://matplotlib.org/) >= 2.0.2
+- [pandas](http://pandas.pydata.org/) >= 0.20.1
+
 ### 管理环境
 
 #### 创建环境
@@ -68,12 +76,13 @@ Conda 还会自动为你安装依赖项。例如，`scipy` 依赖于 `numpy`，�
 
 不同的 Python 版本和不同的科学实验环境最好是独立的。
 
-## Jupyter Notebooks 使用说明
+## Python / Jupyter Notebooks
 
 - 点击此处查看 [官网文档](http://jupyter.org/documentation.html) （英文）
+- [快速新手入门指南](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)（英文）
 - [nbviewer](https://nbviewer.jupyter.org/)  是一个在线分享 Jupyter Notebooks 代码的好工具
 
-新版本的 Anaconda 是自带 Jupyter Notebooks 的，Anaconda 终端中输入`jupyter notebook `便可以在当前路径下运行（想要切换路径可以修改配置文件，也可以在终端手动切换等等）。Jupyter Notebook 有两种键盘输入模式。编辑模式，允许你往单元中键入代码或文本，这时的单元框线是绿色的。命令模式，键盘输入运行程序命令，这时的单元框线是灰色。在 nbviewer 上面有 [notebook 说明文档](https://nbviewer.jupyter.org/github/ipython/ipython/blob/4.0.x/examples/Notebook/Index.ipynb) ，你可以预览一下效果。使用的一些快捷键在网络上可以很方便的找到。
+Jupyter 是一个总体项目，旨在支持除了包括 Julia ，R 等在内的 Python 以外的其他语言。不用担心，对于 Python 用户来说，术语有所不同（现在我们说 “Jupyter Notebook”，而不是“IPython Notebook”）。新版本的 Anaconda 是自带 Jupyter Notebooks 的，Anaconda 终端中输入`jupyter notebook `便可以在当前路径下运行（想要切换路径可以修改配置文件，也可以在终端手动切换等等）。Jupyter Notebook 有两种键盘输入模式。编辑模式，允许你往单元中键入代码或文本，这时的单元框线是绿色的。命令模式，键盘输入运行程序命令，这时的单元框线是灰色。在 nbviewer 上面有 [notebook 说明文档](https://nbviewer.jupyter.org/github/ipython/ipython/blob/4.0.x/examples/Notebook/Index.ipynb) ，你可以预览一下效果。使用的一些快捷键在网络上可以很方便的找到。
 
 如果现在你还没有学习 **Python** ，不用担心，我们将会很快开始 Python 语言的学习。
 
@@ -81,4 +90,5 @@ Conda 还会自动为你安装依赖项。例如，`scipy` 依赖于 `numpy`，�
 
 - cama_summer_school_2017 Week01 [README文档](https://github.com/milLearningGroup/cama_summer_school_2017/blob/master/Week_1/README.md)
 - Accepted Doge 博客 Udacity课程 部分笔记
-- Jupyter Notebooks 快捷键部分参考自网络
+
+  ​

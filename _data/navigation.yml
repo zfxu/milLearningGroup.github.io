@@ -28,8 +28,8 @@ docs:
     children:
       - title: "团队协作与文档写作"
         url: /docs/teamwork-and-markdown/
-      - title: "提问的艺术"
-        # url: /child-2-page-url/
+      - title: "提问的智慧"
+        url: /docs//how-to-ask/
       - title: "Anaconda 与 Jupyter Notebook"
         url: /docs/anaconda-and-jupyter-notebook/
   - title: "机器学习"
