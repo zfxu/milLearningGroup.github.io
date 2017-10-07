@@ -135,7 +135,7 @@ Coursera 上介绍贝叶斯统计的课程：
 
 决策树提供了另一种分类和回归的方法。通常，它们不是解决复杂问题的首选，但它们提供了完全不同的方法，即使是非技术人员也可以很容易理解，该方法还可以在会议或演示中可视化。
 
-- [教程 | 从头开始：用Python实现决策树算法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723438&idx=4&sn=cf3902a9933afe08ac3c38452044cddd&chksm=871b1010b06c99062809133f3ad6279bccd64768a761a2aa6495367048069bc13788929b276a&scene=21#wechat_redirect)
+- [从头开始：用Python实现决策树算法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723438&idx=4&sn=cf3902a9933afe08ac3c38452044cddd&chksm=871b1010b06c99062809133f3ad6279bccd64768a761a2aa6495367048069bc13788929b276a&scene=21#wechat_redirect)
 - [从决策树到随机森林：树型算法的原理与实现](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729423&idx=1&sn=7d78fbddbd79cb864e64516744224212&chksm=871b2fb1b06ca6a7dbc4f8f057f17e737d7dbc7d7ced78a2e12dcef0616f830bd50cdd1973f0&scene=21#wechat_redirect) 
 
 ### 集成学习一览
