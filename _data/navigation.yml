@@ -38,5 +38,8 @@ docs:
         url: /docs/data-science/
   - title: "机器学习"
     # url: http://camalab.hdu.edu.cn/
+    children:
+      - title: "数学基础"
+        url: /docs/machine-learning/math-base/
   - title: "深度学习"
     # url: http://camalab.hdu.edu.cn/
