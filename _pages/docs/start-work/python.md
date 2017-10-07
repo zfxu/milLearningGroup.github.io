@@ -11,7 +11,7 @@ sidebar:
 
 在阅读此文档前，请确保你阅读了前一个关于 **Anaconda** 与 **Jupyter Notebooks** 的说明文档。如果你已经在你的电脑上正确地安装好了 Anaconda3，则只需要在它的终端输入`python`后回车即可进入 Python 环境。
 
-**注意：**直接使用 Windows 默认的 cmd 命令提示符是无法加载 Python 的，你需要设置好**系统的环境变量**,这样的教程在网络上有很多。如果你只需要使用 Python ，可以自行利用搜索引擎搜索或者去 Python 的 [官网](https://www.python.org/) 查询。
+**注意：**直接使用 Windows 默认的 cmd 命令提示符是无法加载 Python 的，你需要设置好**系统的环境变量**，这样的教程在网络上有很多。如果你只需要使用 Python ，可以自行利用搜索引擎搜索或者去 Python 的 [官网](https://www.python.org/) 查询。
 
 ## Python 编程基础
 

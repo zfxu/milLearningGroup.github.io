@@ -34,6 +34,8 @@ docs:
         url: /docs/anaconda-and-jupyter-notebook/
       - title: "Python 与科学环境包"
         url: /docs/python/
+      - title: "数据科学相关（非必需）"
+        url: /docs/data-science/
   - title: "机器学习"
     # url: http://camalab.hdu.edu.cn/
   - title: "深度学习"
