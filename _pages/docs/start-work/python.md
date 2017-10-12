@@ -18,6 +18,7 @@ sidebar:
 Python 是是一种面向对象的解释型计算机程序设计语言，我们在学习的初期只需要了解 Python 的基础使用，你可以选择以下推荐课程之一进行入门学习，其它的进阶内容可以根据个人需求自行寻找：
 
 - Udacity 的 [编程基础：Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
+- Coursera 的 [Programming for Everybody](https://www.coursera.org/learn/python)
 - Python 的 [官方文档](https://www.python.org/doc/) 与 [初学者指南](https://wiki.python.org/moin/BeginnersGuide) （英文）
 
 **提示：**在你进行编程基础的训练时，你可以在 python 环境 / ipython 环境 / Jupytyer Notebooks 环境中进行练习，也可以根据你个人的喜好选择一定的 IDE（集成开发环境）。目前较受欢迎的有 Anaconda 安装时自带的 **Spyder** 以及 Jetbrains 的 **Pycharm** （使用社区版是免费的，功能已经完全足够初学者使用）。
