@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到CAMA-LAB基础学习组
+title: 欢迎来到 MIL 基础学习组
 layout: splash
 permalink: /
 header:
@@ -13,11 +13,11 @@ excerpt: "希望在这里你能够有所收获"
 ---
 
 ## 小组简介
-CAMA-LAB基础学习组隶属于杭州电子科技大学计算机学院 <a href="http://camalab.hdu.edu.cn/">CAMALAB</a> （全称Computer Animation and Multimedia Analysis LAB，即计算机动画与多媒体分析实验室），成立于2017年。负责向组内成员提供**机器学习、深度学习**相关的一些学习资料，以及组织平时的交流讨论和进度汇报等内容。
+MIL 基础学习组隶属于杭州电子科技大学计算机学院 <a href="http://camalab.hdu.edu.cn/">MIL</a> （全称Media Intelligence LAB，即媒体智能实验室），成立于2017年。负责向组内成员提供**机器学习、深度学习**相关的一些学习资料，以及组织平时的交流讨论和进度汇报等内容。
 
 ## 成员名单
 
-<h3><font color="#FF0000" > CAMA-LAB Learning Group 2017 Autumn </font></h3>
+<h3><font color="#FF0000" > MIL Learning Group 2017 Autumn </font></h3>
 
 现定成员名单如下，暂时还未分组：  
 
