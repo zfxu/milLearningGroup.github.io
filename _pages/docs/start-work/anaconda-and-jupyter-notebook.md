@@ -76,7 +76,7 @@ Conda 还会自动为你安装依赖项。例如，`scipy` 依赖于 `numpy`，�
 
 不同的 Python 版本和不同的科学实验环境最好是独立的。
 
-## Python / Jupyter Notebooks
+## IPython / Jupyter Notebooks
 
 - 点击此处查看 [官网文档](http://jupyter.org/documentation.html) （英文）
 - [快速新手入门指南](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)（英文）
